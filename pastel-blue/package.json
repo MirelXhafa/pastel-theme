@@ -1,0 +1,21 @@
+{
+  "name": "pastel-blue",
+  "displayName": "Pastel Blue",
+  "description": "A theme using pastel colors and blue base",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pastel Blue-color-theme.json"
+      }
+    ]
+  }
+}
